@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import FeaturePic from '../../images/8.jpg'
+import FeaturePic from '../../images/0.jpg'
 
 export const FeatureContainer = styled.div`
     background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url(${FeaturePic});
@@ -23,7 +23,7 @@ export const FeatureContainer = styled.div`
         margin-bottom: 1rem;
         font-size: clamp(1rem, 3vw, 2rem);
     }
-`
+`;
 
 export const FeatureButton = styled.button`
     font-size: 1.4rem;

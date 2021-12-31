@@ -1,9 +1,9 @@
 import product1 from '../../images/2.jpg'
 import product2 from '../../images/5.jpg'
 import product3 from '../../images/10.jpg'
-import sweet1 from '../../images/12.jpg'
+import sweet1 from '../../images/13.jpg'
 import sweet2 from '../../images/14.jpg'
-import sweet3 from '../../images/0.jpg'
+import sweet3 from '../../images/18.jpg'
 
 export const productData = [
     {

@@ -5,18 +5,18 @@ import { FaPizzaSlice } from 'react-icons/fa'
 export const Nav = styled.nav`
     background: transparent;
     height: 80px;
-    display: flex;
-    justify-content: center;
+    display: flex; 
     font-weight: 700;
 `;
 
 export const NavLink = styled(Link)`
-    color: #fff;
+    color: #e31837;
     font-size: 2rem;
     display: flex;
     align-items: center;
     text-decoration: none;
     cursor: pointer;
+    margin-left: 5rem;
 
     @media screen and (max-width: 400px) {
         position: absolute;
